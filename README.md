@@ -1,6 +1,6 @@
 # Football Database
 
-This project is a database schema designed to manage various football teams, including players, parents/carers, age groups, coaches, and teams.
+This project is a database schema designed to manage school football teams, including players, parents/carers, age groups, coaches, and teams.
 
 ## Database Schema
 
